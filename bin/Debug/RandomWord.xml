@@ -1,0 +1,33 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+RandomWord
+</name>
+</assembly>
+<members>
+<member name="T:RandomWord.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:RandomWord.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:RandomWord.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:RandomWord.Form1.fncReadWordList(System.String)">
+ <summary>
+ goo辞書の五十音リストから四字熟語一覧を取得
+ </summary>
+ <param name="sParamChar"></param>
+ <returns></returns>
+</member>
+</members>
+</doc>
